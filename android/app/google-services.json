@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "258307894562",
+    "project_id": "zoom-app-681ec",
+    "storage_bucket": "zoom-app-681ec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:258307894562:android:621b1a24c7897d7c41c97b",
+        "android_client_info": {
+          "package_name": "www.zoom.paybills.vip"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "258307894562-pmrtemjvrqrm2aagfng9gusbbakg6ams.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-JLsDAN4qzDk9zsuxc3vk93HsTCnFK00"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "258307894562-pmrtemjvrqrm2aagfng9gusbbakg6ams.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
